@@ -4,7 +4,13 @@ function UserFooter() {
     return (
         <>
             <footer>
-                {/* Header content goes here */}
+                <div>
+                    <div>
+                        <div>
+                            <div></div>
+                        </div>
+                    </div>
+                </div>
             </footer>
         </>
     );
