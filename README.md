@@ -1,4 +1,8 @@
-# React + Vite
+# React + Vite + Taillwind
+
+1. clone this git in a folder.
+2. In terminal run "npm install".
+3. then "npm run dev"
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
@@ -9,5 +13,4 @@ Currently, two official plugins are available:
 
 Project Resources: vite.js + tailwindcss 
 
-1: "npm install"
-2: "npm start"
+
