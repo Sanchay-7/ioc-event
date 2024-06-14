@@ -4,10 +4,7 @@ function UserHeader() {
     return (
         <>
             <header>
-                <div className='color-green'>
-                    div
-
-                </div>
+                {/* write your code here */}
             </header>
         </>
     );
