@@ -7,7 +7,7 @@ function UserHome() {
         <>
             <UserHeader />
                 <div>
-                    <h4>hello</h4>
+                    {/* write your code here */}
                 </div>
             <UserFooter />
         </>
