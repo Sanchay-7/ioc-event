@@ -4,7 +4,9 @@ function UserHeader() {
     return (
         <>
             <header>
-                {/* Header content goes here */}
+                <div>
+                    <h1></h1>
+                </div>
             </header>
         </>
     );
